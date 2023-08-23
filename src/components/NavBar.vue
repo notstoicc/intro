@@ -37,7 +37,7 @@ const { y: scroll } = useWindowScroll()
         <RouterLink to="/chat" title="Let's Chat">
           <div i-ri-chat-1-line />
         </RouterLink>
-        <a href="/feed.xml" target="_blank" title="RSS" class="lt-md:hidden">
+        <a href="https://s.id/notstoicc" target="_blank" title="RSS" class="lt-md:hidden">
           <div i-la-rss-square style="font-size:1.25rem; margin: 0 -0.125rem;" />
         </a>
         <toggle-theme />
