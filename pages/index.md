@@ -18,16 +18,12 @@ Outside of reading, I am social creature and can be found on [Instagram](https:/
 Find me on
 
 <p flex="~ gap-3 wrap" class="mt--2!">
-  <a href="https://github.com/antfu" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
-  <a href="https://elk.zone/m.webtoo.ls/@antfu" target="_blank"><span op75 i-simple-icons-mastodon/> Mastodon</a>
-  <a href="https://www.twitter.com/antfu7" target="_blank"><span op75 i-simple-icons-twitter /> Twitter</a>
-  <a href="https://chat.antfu.me" target="_blank"><span op75 i-simple-icons-discord /> Discord Server</a>
-  <a href="https://www.youtube.com/anthonyfu7" target="_blank"><span op75 i-simple-icons-youtube /> YouTube</a>
-  <a href="https://www.twitch.tv/antfu7" target="_blank"><span op75 i-simple-icons-twitch /> Twitch</a>
-  <a href="https://www.instagram.com/antfu7" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
-  <a href="https://www.zhihu.com/people/antfu" target="_blank"><span op75 i-simple-icons-zhihu /> 知乎</a>
-  <a href="https://weibo.com/u/7485197193" target="_blank"><span op75 i-simple-icons-sinaweibo /> 微博</a>
-  <a href="https://space.bilibili.com/668380" target="_blank"><span op75 i-simple-icons-bilibili /> 哔哩哔哩</a>
+  <a href="https://github.com/notstoicc" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
+  <a href="https://www.reddit.com/u/Cosmicmushashi?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=1" target="_blank"><span op75 i-simple-icons-reddit/> Reddit</a>
+  <a href="https://www.twitter.com/Aditya80tiwari" target="_blank"><span op75 i-simple-icons-twitter /> Twitter</a>
+  <a href="https://discord.gg/mmuqxsNcQn" target="_blank"><span op75 i-simple-icons-discord /> Discord Server</a>
+  <a href="https://www.youtube.com/@actinides" target="_blank"><span op75 i-simple-icons-youtube /> YouTube</a>
+  <a href="https://www.instagram.com/notstoicc" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
+  <a href="https://www.instagram.com/mangaphilous" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
+  <a href="https://www.instagram.com/adityxtiwari" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
 </p>
-
-If you enjoy my works, consider sponsoring me on [<span i-carbon-favorite /> GitHub Sponsor](https://github.com/sponsors/antfu) or [<span i-carbon-lightning /> 爱发电](https://afdian.net/a/antfu) to keep them sustainable.
