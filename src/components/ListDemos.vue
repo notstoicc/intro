@@ -26,10 +26,10 @@ const parts = computed(() => {
     <div v-for="items, idx of parts" :key="idx" flex="~ col gap-4">
       <component
         :is="comp"
-        v-for="{ comp, date, media } of items"
+        v-for="{ comp, date, video } of items"
         :key="date"
         :date="date"
-        :media="media"
+        :video="video"
         class="slide-enter"
         :style="{
           '--enter-stage': idx + 1,
