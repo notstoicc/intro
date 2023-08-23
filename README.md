@@ -1,7 +1,7 @@
-**[antfu.me](https://antfu.me)**
+**[notstoicc.me](https://stoicc-git-main-notstoicc.vercel.app/)**
 
 my personal website
 
 <br>
 
-<samp>code is licensed under <a href='./LICENSE'>MIT</a>,<br> words and images are licensed under <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0</a></samp>.
+<samp>code isn't licensed under <a href='./LICENSE'>any Supervising Co-operation</a>,<br> words and images aren't licensed either</samp>.
