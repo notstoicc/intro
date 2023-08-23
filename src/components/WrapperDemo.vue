@@ -1,19 +1,21 @@
 <script setup lang="ts">
 import { formatDate } from '~/logics'
 
-const { frontmatter, video, date } = defineProps({
+const { frontmatter, media, date } = defineProps({
   frontmatter: {
     type: Object,
     required: true,
   },
-  video: {
-    type: String,
+  media: {
+    type: [String, Object], // Accepts either a single URL or an object containing URLs
   },
   date: {
     type: String,
     required: true,
   },
 })
+
+const isMediaObject = typeof media === 'object';
 </script>
 
 <template>
@@ -25,12 +27,20 @@ const { frontmatter, video, date } = defineProps({
       :href="frontmatter.link"
       target="_blank"
     >
-      <video
-        v-if="video"
-        :src="video"
-        w-full autoplay loop muted playsinline border="b base"
-      />
-
+      <template v-if="isMediaObject">
+        <video
+          v-if="media.video"
+          :src="media.video"
+          w-full autoplay loop muted playsinline border="b base"
+        />
+        <img
+          v-else-if="media.image"
+          :src="media.image"
+          alt="Media"
+          w-full border="b base"
+        />
+      </template>
+      
       <div class="prose prose-sm p4 m0 pb3">
         <slot />
         <div op50 text-sm pt2>{{ formatDate(date, false) }}</div>
