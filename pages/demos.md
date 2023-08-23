@@ -1,8 +1,8 @@
 ---
-title: Demos - Anthony Fu
-display: Demos
-subtitle: Demonstrations for projects I am working on from Tweets
-description: Demonstrations for projects I am working on from Tweets
+title: Photos - Aditya 
+display: Pics
+subtitle: A mixed art gallery maintained by the Batman (me)
+description: A mixed art gallery maintained by the Batman (me)
 ---
 
 <!-- @layout-full-width -->
