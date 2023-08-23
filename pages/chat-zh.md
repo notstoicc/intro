@@ -4,7 +4,7 @@ display: チャットしよう!
 image: https://antfu.me/og-chat.png
 ---
 
-[チャット - Japanese](/chat-zh)
+[チャット - English](/chat)
 
 こんにちは！あなたがこの場所を訪れたことを知り、嬉しく思います。以下から選んでチャットしましょう。へぇ～。 Heh~
 
