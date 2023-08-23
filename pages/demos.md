@@ -1,7 +1,7 @@
 ---
 title: Photos - Aditya 
 display: Photos - Aditya
-subtitle: A mixed art gallery maintained by the Batman (me)
+subtitle: A Personal mixed/art gallery
 description: A mixed art/gallery.
 ---
 
