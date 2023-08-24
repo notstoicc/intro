@@ -1,7 +1,7 @@
 ---
 title: Aditya tiwari
 description: I am actually Batman
-image: https://antfu.me/og.png
+image: https://cdn.discordapp.com/attachments/1123911691483226132/1144160669323767878/Picsart_23-08-24_12-14-40-136.png
 plum: true
 ---
 
