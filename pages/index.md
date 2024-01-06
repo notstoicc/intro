@@ -25,7 +25,7 @@ Find me on
   <br>
   <a href="https://instagram.com/bettercallstoic?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
   <a href="https://www.instagram.com/adityxtiwari" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
-  <a href="https://www.instagram.com/adityxtiwari" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
+  <br>
 <a rel="me" href="https://mastodon.social/@Notstoicc" > <span op75 i-simple-icons-mastodon />  Mastodon</a>
 </p>
 
