@@ -21,11 +21,10 @@ Find me on
   <a href="https://www.reddit.com/u/Cosmicmushashi?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=1" target="_blank"><span op75 i-simple-icons-reddit/> Reddit</a>
   <a href="https://x.com/adityxtiwari?t=K8RDwLAodWsxfn4zbPhJMg&s=09" target="_blank"><span op75 i-simple-icons-twitter /> Twitter</a>
   <a href="https://discord.gg/mmuqxsNcQn" target="_blank"><span op75 i-simple-icons-discord /> Discord Server</a>
-  <a href="https://www.youtube.com/@actinides" target="_blank"><span op75 i-simple-icons-youtube /> YouTube</a>
+  <a href="https://www.youtube.com/@celebritysix" target="_blank"><span op75 i-simple-icons-youtube /> YouTube</a>
   <br>
   <a href="https://instagram.com/bettercallstoic?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
   <a href="https://www.instagram.com/adityxtiwari" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
-  <br><br>
 <a rel="me" href="https://mastodon.social/@Notstoicc" > <span op75 i-simple-icons-mastodon />  Mastodon</a>
 </p>
 
