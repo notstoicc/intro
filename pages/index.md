@@ -23,8 +23,8 @@ Find me on
   <a href="https://discord.gg/mmuqxsNcQn" target="_blank"><span op75 i-simple-icons-discord /> Discord Server</a>
   <a href="https://www.youtube.com/@celebritysix" target="_blank"><span op75 i-simple-icons-youtube /> YouTube</a>
   <br>
-  <a href="https://instagram.com/bettercallstoic?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
-  <a href="https://www.instagram.com/adityxtiwari" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
+  <a href="https://instagram.com/nietzsiche?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
+  <a href="https://www.instagram.com/adityaheh target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
 <a rel="me" href="https://mastodon.social/@Notstoicc" > <span op75 i-simple-icons-mastodon />  Mastodon</a>
 </p>
 
