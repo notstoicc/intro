@@ -30,6 +30,14 @@ const { y: scroll } = useWindowScroll()
     <nav class="nav">
       <div class="spacer" />
       <div class="right" print:op0>
+        <RouterLink to="/posts" title="Blog">
+          <span class="lt-md:hidden">Blog</span>
+          <div i-ri-article-line md:hidden />
+        </RouterLink>
+        <RouterLink to="/projects" title="Projects">
+          <span class="lt-md:hidden">Projects</span>
+          <div i-ri-lightbulb-line class="md:hidden" />
+        </RouterLink>
         <RouterLink to="/demos" title="Gallery">
           <span class="lt-md:hidden">Gallery</span>
           <div i-ri-screenshot-line class="md:hidden" />
@@ -37,7 +45,7 @@ const { y: scroll } = useWindowScroll()
         <RouterLink to="/chat" title="Let's Chat">
           <div i-ri-chat-1-line />
         </RouterLink>
-        <a href="https://s.id/notstoicc" target="_blank" title="RSS" class="lt-md:hidden">
+        <a href="https:ft-notstoicc.vercel.app/" target="_blank" title="RSS" class="lt-md:hidden">
           <div i-la-rss-square style="font-size:1.25rem; margin: 0 -0.125rem;" />
         </a>
         <toggle-theme />
