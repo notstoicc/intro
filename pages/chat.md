@@ -10,12 +10,12 @@ Yo ! Hello there. It's a pleasure to know that you visited this place. Choose fr
 
 ### Online Homies
 
-I want to keep the conversation easy, open, and accessible. You can you use the link below to text me on my other ig profile where I'm more active with my online homies. Once a Nigga, always a Nigga. bitch ‼️
+I want to keep the conversation easy, open, and accessible. You can you use the link below to text me on my other ig profile where I'm more active with my online homies.
 
-<CalCom href="https://ig.me/m/notstoicc" title="Tap to talk" />
+<CalCom href="https://ig.me/m/notstoicc" title="@notstoicc" />
 
 ### Real life
 
 If you know me in person as a real life friend or wants to be a friend with me, you can text me on ig from the below link. I love to make friends but my social skills limit me, lol.
 
-<CalCom href="https://ig.me/m/adityxtiwari" title="Send a message" />
+<CalCom href="https://ig.me/m/adityaheh" title="@adityaheh" />
