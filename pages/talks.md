@@ -12,20 +12,19 @@ plum: true
 
 <div slide-enter>
 
-| Date                          | Conference                                                                                           | Location             | Topic                                                               |
-| ----------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------- |
-| <TalkDate date="2024-02-27"/> | [**The Vue-niverse meetup**](https://www.meetup.com/nl-NL/coven-of-wisdom-utrecht/events/298711260/) | Utrecht, Netherlands | The Progressive Path                                                |
-| <TalkDate date="2024-02-29"/> | [**Vue Amsterdam**](https://vuejs.amsterdam/)                                                        | Amsterdam            | [The Progressive Path](/posts/roads-to-oss-progressive-vueams-2024) |
-| <TalkDate date="2024-03-01"/> | [**Devworld**](https://devworldconference.com/)                                                      | Amsterdam            | Panel Discussions                                                   |
-| <TalkDate date="2024-03-22"/> | [**React Paris**](https://react.paris/)                                                              | Paris                | The Set Theory                                                      |
-| <TalkDate date="2024-04-03"/> | [**Vue.js Paris**](https://www.meetup.com/fr-FR/vuejs-paris/)                                        | Paris                | Panel Discussions                                                   |
-| <TalkDate date="2024-06-01"/> | [**Frontend Nation**](https://frontendnation.com/)                                                   | Online; Free         | The Progressive Path                                                |
-| <TalkDate date="2024-06-08"/> | [**CityJS Athens**](https://greece.cityjsconf.org/)                                                  | Athens               | ESLint One for All Made Easy                                        |
-| <TalkDate date="2024-06-13"/> | [**JS Nation**](https://jsnation.com/)                                                               | Amsterdam            | ESLint One for All Made Easy                                        |
-| <TalkDate date="2024-06-14"/> | [**React Summit**](https://reactsummit.com/)                                                         | Amsterdam            | The Set Theory                                                      |
-| <TalkDate date="2024-07-06"/> | [**VueConf Shenzhen**](https://vue.w3ctech.com/)                                                     | Shenzhen, China      | TBD                                                                 |
-| <TalkDate date="2024-10-19"/> | [**Vue Fes Japan**](https://vuefes.jp/)                                                              | Tokyo                | TBD                                                                 |
+| Rank | Anime                                                                                                | Rate | Genre         |
+| ---- | ---------------------------------------------------------------------------------------------------- | ---- | ------------- |
+|  1   | [**Attack on Titan**](https://anilist.co/anime/16498/Attack-on-Titan/)                               | 9.9  |    Action     |
+|  2   | [**Vue Amsterdam**](https://vuejs.amsterdam/)                                                        |      |               |
+|  3   | [**Devworld**](https://devworldconference.com/)                                                      |      |               |
+|  4   | [**React Paris**](https://react.paris/)                                                              |      |               |
+|  5   | [**Vue.js Paris**](https://www.meetup.com/fr-FR/vuejs-paris/)                                        |      |               |
+|  6   | [**Frontend Nation**](https://frontendnation.com/)                                                   |      |               |
+|  7   | [**CityJS Athens**](https://greece.cityjsconf.org/)                                                  |      |               |
+|  8   | [**JS Nation**](https://jsnation.com/)                                                               |      |               |
+|  9   | [**React Summit**](https://reactsummit.com/)                                                         |      |               |
+|  10  | [**VueConf Shenzhen**](https://vue.w3ctech.com/)                                                     |      |               |
+|  11  | [**Vue Fes Japan**](https://vuefes.jp/)                                                              |      |               |
 
-<h1 important="mb--4 mt-15">Latest Talks</h1>
 
 <ListTalks />
