@@ -9,7 +9,7 @@ function slug(name: string) {
 <template>
   <div class="max-w-300 mx-auto">
     <p text-center mt--6 mb5 op50 text-lg italic>
-     Projects, Websites and Blogs that I follow
+     Websites, Blogs, etc.
     </p>
     <div
       v-for="key, cidx in Object.keys(projects)" :key="key" slide-enter
