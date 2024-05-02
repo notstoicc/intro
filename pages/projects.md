@@ -1,7 +1,7 @@
 ---
-title: Projects - Anthony Fu
-display: Projects
-description: List of projects that I am proud of
+title: Internet bits
+display: Internet
+description: just yeah
 wrapperClass: 'text-center'
 projects:
   WeBlog:
