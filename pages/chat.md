@@ -4,7 +4,7 @@ display: Let's Chat!
 image: https://antfu.me/og-chat.png
 ---
 
-[チャット - Japanese](/chat-zh)
+[/jap](/chat-zh)
 
 Yo ! Hello there. It's a pleasure to know that you visited this place. Choose from below and we can Chat. Heh~
 
