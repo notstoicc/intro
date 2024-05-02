@@ -1,28 +1,20 @@
 <template>
-  <div flex="~ wrap gap-2 items-center justify-center">
+  <p>
+    Check out my top 10 anime and manga ranking. Thank you!
+  </p>
+  
+  <p flex="~ gap-2 wrap">
     <a
-      href="https://github.com/sponsors/antfu"
+      href="#"
       target="_blank"
-      class="group btn-rose"
+      class="group btn-yellow inline-block"
     >
       <div
-        i-carbon-favorite
-        group-hover="i-carbon-favorite-filled?mask text-rose"
+        i-ph-lightning-duotone
+        group-hover="i-ph-lightning-fill text-yellow"
         transition-all duration-200 ease-out
       />
-      Sponsor to support my work
+      個人的な選択によるランキング 
     </a>
-    <a
-      href="https://afdian.net/a/antfu"
-      target="_blank"
-      class="group btn-yellow"
-    >
-      <div
-        i-carbon-flash
-        group-hover="i-carbon-flash-filled?mask text-yellow"
-        transition-all duration-200 ease-out
-      />
-      在爱发电上支持我
-    </a>
-  </div>
+  </p>
 </template>
