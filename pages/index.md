@@ -5,7 +5,7 @@ image: https://cdn.discordapp.com/attachments/1123911691483226132/11441606693237
 plum: true
 ---
 
-Hey, I am Aditya tiwari, a cyborg.
+Hey, I am Aditya tiwari. duhhhhh...
 
 Dreaming up ideas and making them come true is where my passion lies. I watch [anime](https://aniwatch.to/home)/[movies](https://1moviestv.com/home) and read [mangas](https://mangareader.to/home).
 
@@ -28,3 +28,7 @@ Find me on
 <a rel="me" href="https://mastodon.social/@Notstoicc" > <span op75 i-simple-icons-mastodon />  Mastodon</a>
 </p>
 
+
+---
+
+<SponsorButtons />
