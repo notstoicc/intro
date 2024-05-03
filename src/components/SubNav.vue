@@ -20,10 +20,10 @@ const route = useRoute()
         Blog
       </RouterLink>
       <RouterLink to="/list" class="!border-none" :class="route.path === '/list' ? activeStyle : inactiveStyle">
-        List
+        Tier
       </RouterLink>
       <RouterLink to="/streams" class="!border-none" :class="route.path === '/streams' ? activeStyle : inactiveStyle">
-        Redirect
+        Stream
       </RouterLink>
     </div>
   </div>
