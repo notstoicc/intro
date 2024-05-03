@@ -17,7 +17,7 @@ plum: true
 
 | R/ | Anime                                           | Rate | Genre  |
 |----|-------------------------------------------------|:----:|--------|
-| 1  | [**Attack on Titan**](/giving talks)            |  10  | Action |
+| 1  | [**Attack on Titan**](https://anilist.co/anime/16498/Attack-on-Titan/)            |  10  | Action |
 | 2  | Gintama                                         |  10  | Action |
 | 3  | Frieren                                         |  10  | Action |
 | 4  | FMA : Brotherhood                               |  10  | Action |
