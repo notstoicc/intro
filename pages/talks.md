@@ -10,8 +10,6 @@ plum: true
 
 # Best of Anime(s)
 
-<div slide-enter>
-
 | Rank | Anime                                                                                                | Rate | Genre         |
 | ---- | ---------------------------------------------------------------------------------------------------- | ---- | ------------- |
 |  1   | [**Attack on Titan**](https://anilist.co/anime/16498/Attack-on-Titan/)                               | 9.9  |    Action     |
