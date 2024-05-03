@@ -16,5 +16,12 @@
       />
       個人的な選択によるランキング 
     </a>
+    <RouterLink to="/list" title="Tier List">
+          <div 
+            i-ph-lightning-duotone
+            group-hover="i-ph-lightning-fill text-yellow"
+            transition-all duration-200 ease-out
+       />
+    </RouterLink>
   </p>
 </template>
