@@ -8,7 +8,7 @@ description: Things to consider working upon.
 
 [[toc]]
 <img
-  src="/images/WrittenBlog1.svg"
+  src="/images/WrittenBlog1.png"
   alt="Self-love and love"
   class="dark:invert-100 dark:op80 border-none! shadow-none! max-w-120"
 />
