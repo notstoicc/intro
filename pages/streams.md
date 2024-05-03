@@ -20,5 +20,5 @@ items:
 </div>
 
 <StreamAnnouncement />
-
+<SpotifyPlaylist />
 <ListPosts :posts="frontmatter.items.reverse()" />
