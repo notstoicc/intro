@@ -23,7 +23,7 @@ const route = useRoute()
         Tier
       </RouterLink>
       <RouterLink to="/streams" class="!border-none" :class="route.path === '/streams' ? activeStyle : inactiveStyle">
-        Stream
+        Feed
       </RouterLink>
     </div>
   </div>
